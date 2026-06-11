@@ -1,4 +1,4 @@
-A repository of some of my favourite work in Machine Learning. They include:<br /><br />
+Here are some Jupyter notebooks that I enjoyed working on:<br /><br />
 - Manufacturing quality control<br />
 - Electricity power consumption of a household<br />
 - Heart attack risk prediction<br />
